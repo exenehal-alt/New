@@ -1,0 +1,6 @@
+{
+  "name": "Pandulipi",
+  "description": "5.5x8.5 inch Bengali poetry painting studio, handwritten notebook-to-digital typography converter, AI artwork generator, drawing toolbox, PDF exporter, and cloud-synced manuscript workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

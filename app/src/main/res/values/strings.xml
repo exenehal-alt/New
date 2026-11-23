@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pandulipi</string>
+    <string name="subtitle_studio">কবিতা ও চিত্রকলা স্টুডিও</string>
+    <string name="export_pdf">PDF এক্সপোর্ট</string>
+    <string name="auto_saved">অটো-সেভড</string>
+    <string name="saving">সেভ হচ্ছে…</string>
+    <string name="cloud_sync_local_only">লোকাল অটো-সেভ চালু</string>
+    <string name="nav_poem">কবিতা</string>
+    <string name="nav_draw">আঁকুন</string>
+    <string name="nav_art">ছবি ও AI</string>
+    <string name="nav_ocr">খাতা OCR</string>
+</resources>
